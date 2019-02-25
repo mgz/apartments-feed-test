@@ -1,6 +1,6 @@
 # Apartments feed
 
-We need to create a feed of apartments for rent. Data about apartments provided by multiple rental agencies and may contain duplicates. A user shouldn't see duplicates in the feed. So we need to filter apartments and keep only unique results based on the priority of each rental agency.
+You need to create a feed of apartments for rent. Data about apartments provided by multiple rental agencies and may contain duplicates. A user shouldn't see duplicates in the feed. So we need to filter apartments and keep only unique results based on the priority of each rental agency.
 
 ## Example
 
