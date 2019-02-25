@@ -14,4 +14,4 @@ List of rental agencies with priorities: https://raw.githubusercontent.com/kiril
 
 ## Task definition
 
-Create Ruby on Rails app which will load data using links above and return apartments feed without duplicates. It should be deployed to Heroku and return feed under `/feed` route.
+Create Ruby on Rails app which will load data using links above and return apartments feed without duplicates. It should be deployed to Heroku and return feed as a table under `/feed` route.
